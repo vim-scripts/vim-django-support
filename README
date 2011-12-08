@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3841
+
+Vim django support plugin
+
+This plugin helps you to set DJANGO_SETTINGS_MODULE automatically. That mean your pythoncomplete now support Django omni completion. Your nose.vim now support Django unittest.
+
+This plugin solve every issue related to DJANGO_SETTINGS_MODULE
+https://github.com/lambdalisue/vim-django-support/raw/master/img/screenshot.png
+
+Omni-completion of django.db with pythoncomplete
+How to install
+
+Using vundle or pathogen is recommended or simply extract to your vim directory
+
+Developed at https://github.com/lambdalisue/vim-django-support
